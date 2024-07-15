@@ -1,0 +1,3 @@
+[submodule "external/llibs"]
+	path = external/llibs
+	url = https://github.com/TheProjectL/llibs
