@@ -1,8 +1,0 @@
-{
-    "aix":      ["bin/lenaup"],
-    "darwin":   ["bin/lenaup"],
-    "linux":    ["bin/lenaup"],
-    "openbsd":  ["bin/lenaup"],
-    "sunos":    ["bin/lenaup"],
-    "win32":    ["bin/lenaup.exe"]
-}
